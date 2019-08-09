@@ -1,0 +1,20 @@
+body{
+  color: black;
+  background: grey;
+}
+h2{
+  text-align: center;
+}
+section{
+  border: 3px solid black;
+  border-radius: 15px;
+  box-shadow:4px 4px 4px black;
+    float:left;
+    height: 350px;
+    padding: 25px;
+    margin: 100px;
+}
+#plotsettings{
+  width: 140px;
+}
+#plot{width: 500px;}
